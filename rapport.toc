@@ -1,0 +1,33 @@
+\select@language {french}
+\contentsline {section}{Remerciements}{3}{section*.2}
+\contentsline {section}{Introduction}{4}{section*.3}
+\contentsline {section}{\numberline {1} Pr\IeC {\'e}sentation de l'entreprise}{5}{section*.3}
+\contentsline {subsection}{\numberline {1.1}Pr\IeC {\'e}sentation de la DSI-GM-Global Markets-Distribution}{5}{section*.4}
+\contentsline {section}{\numberline {2}Description de la mission de stage}{5}{section*.4}
+\contentsline {section}{\numberline {3}Le stage }{5}{section*.4}
+\contentsline {section}{\numberline {4}Partie 1 : Choix des technologies}{5}{section*.4}
+\contentsline {subsection}{\numberline {4.1}La technologie Big Data}{5}{section*.5}
+\contentsline {subsection}{\numberline {4.2}D\IeC {\'e}finition}{5}{section*.5}
+\contentsline {subsection}{\numberline {4.3}Conception d'une architecture lambda}{5}{section*.5}
+\contentsline {subsection}{\numberline {4.4}Comparaison des bases de donn\IeC {\'e}es NOSQL}{5}{section*.5}
+\contentsline {subsection}{\numberline {4.5}Choix d'une base de donn\IeC {\'e}es NOSQL}{6}{section*.5}
+\contentsline {subsection}{\numberline {4.6}Choix d'une distribution de hadoop et son ecosyst\IeC {\`e}me}{7}{section*.5}
+\contentsline {subsection}{\numberline {4.7}Choix d'un ETL}{7}{section*.5}
+\contentsline {subsection}{\numberline {4.8}Choix des langages de programmation }{7}{section*.5}
+\contentsline {subsection}{\numberline {4.9}Spark}{7}{section*.5}
+\contentsline {subsection}{\numberline {4.10}Spark SQL}{7}{section*.5}
+\contentsline {subsection}{\numberline {4.11}Spark Streaming}{7}{section*.5}
+\contentsline {subsection}{\numberline {4.12}Spark MLib}{7}{section*.5}
+\contentsline {section}{\numberline {5}Partie 2 : Pr\IeC {\'e}sentation du travail }{8}{section*.5}
+\contentsline {subsection}{\numberline {5.1}Conception et r\IeC {\'e}alisation du projet}{8}{section*.6}
+\contentsline {subsection}{\numberline {5.2}Modelisation}{8}{section*.6}
+\contentsline {subsection}{\numberline {5.3}Stockage des donn\IeC {\'e}es dans la base de donn\IeC {\'e}es Hbase}{8}{section*.6}
+\contentsline {subsection}{\numberline {5.4}Conception d'une fonction de .... }{8}{section*.6}
+\contentsline {subsection}{\numberline {5.5}Analyse descriptive des donn\IeC {\'e}es}{8}{section*.6}
+\contentsline {section}{\numberline {6}Partie 3}{8}{section*.6}
+\contentsline {subsection}{\numberline {6.1}Traitement en mode streaming}{8}{section*.7}
+\contentsline {subsection}{\numberline {6.2}Analyse pr\IeC {\'e}dictive des donn\IeC {\'e}es}{8}{section*.7}
+\contentsline {section}{\numberline {7}Apport des enseignements dans le d\IeC {\'e}veloppement de la solution}{9}{figure.2}
+\contentsline {section}{\numberline {8} comp\IeC {\'e}tences acquisent}{9}{figure.2}
+\contentsline {section}{Conclusion}{11}{section*.8}
+\contentsline {section}{R\IeC {\'e}f\IeC {\'e}rences}{12}{section*.9}

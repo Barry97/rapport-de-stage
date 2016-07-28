@@ -1,0 +1,32 @@
+\BOOKMARK [1][-]{section*.2}{Remerciements}{}
+\BOOKMARK [1][-]{section*.3}{Introduction}{}
+\BOOKMARK [1][-]{section*.3}{ Pr\351sentation de l'entreprise}{}
+\BOOKMARK [2][-]{section*.4}{Pr\351sentation de la DSI-GM-Global Markets-Distribution}{section*.3}
+\BOOKMARK [1][-]{section*.4}{Description de la mission de stage}{}
+\BOOKMARK [1][-]{section*.4}{Le stage }{}
+\BOOKMARK [1][-]{section*.4}{Partie 1 : Choix des technologies}{}
+\BOOKMARK [2][-]{section*.5}{La technologie Big Data}{section*.4}
+\BOOKMARK [2][-]{section*.5}{D\351finition}{section*.4}
+\BOOKMARK [2][-]{section*.5}{Conception d'une architecture lambda}{section*.4}
+\BOOKMARK [2][-]{section*.5}{Comparaison des bases de donn\351es NOSQL}{section*.4}
+\BOOKMARK [2][-]{section*.5}{Choix d'une base de donn\351es NOSQL}{section*.4}
+\BOOKMARK [2][-]{section*.5}{Choix d'une distribution de hadoop et son ecosyst\350me}{section*.4}
+\BOOKMARK [2][-]{section*.5}{Choix d'un ETL}{section*.4}
+\BOOKMARK [2][-]{section*.5}{Choix des langages de programmation }{section*.4}
+\BOOKMARK [2][-]{section*.5}{Spark}{section*.4}
+\BOOKMARK [2][-]{section*.5}{Spark SQL}{section*.4}
+\BOOKMARK [2][-]{section*.5}{Spark Streaming}{section*.4}
+\BOOKMARK [2][-]{section*.5}{Spark MLib}{section*.4}
+\BOOKMARK [1][-]{section*.5}{Partie 2 : Pr\351sentation du travail }{}
+\BOOKMARK [2][-]{section*.6}{Conception et r\351alisation du projet}{section*.5}
+\BOOKMARK [2][-]{section*.6}{Modelisation}{section*.5}
+\BOOKMARK [2][-]{section*.6}{Stockage des donn\351es dans la base de donn\351es Hbase}{section*.5}
+\BOOKMARK [2][-]{section*.6}{Conception d'une fonction de .... }{section*.5}
+\BOOKMARK [2][-]{section*.6}{Analyse descriptive des donn\351es}{section*.5}
+\BOOKMARK [1][-]{section*.6}{Partie 3}{}
+\BOOKMARK [2][-]{section*.7}{Traitement en mode streaming}{section*.6}
+\BOOKMARK [2][-]{section*.7}{Analyse pr\351dictive des donn\351es}{section*.6}
+\BOOKMARK [1][-]{figure.2}{Apport des enseignements dans le d\351veloppement de la solution}{}
+\BOOKMARK [1][-]{figure.2}{ comp\351tences acquisent}{}
+\BOOKMARK [1][-]{section*.8}{Conclusion}{}
+\BOOKMARK [1][-]{section*.9}{R\351f\351rences}{}
